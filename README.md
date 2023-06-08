@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/Screenshot%202023-05-04%20at%2000-22-46%20Tip%20calculator%20app.png)
+![](assets/images/preview.png)
 
 ### Links
 
