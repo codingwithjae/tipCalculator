@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/jaegit123/Tip-calculator-application)
+- Solution URL: [Github](https://github.com/jaedevgithub/tipCalculator)
 
-- Live Site URL: [Github Pages](https://jaegit123.github.io/Tip-calculator-application/)
+- Live Site URL: [Github Pages](https://jaedevgithub.github.io/tipCalculator/)
 
 ## My process
 
