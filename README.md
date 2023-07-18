@@ -1,8 +1,8 @@
 # Frontend Mentor - Challenge #3: Tip Calculator Application
 
-This is a solution to the [Tip Calculator Application](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub). 
+This is a solution to the [Tip Calculator Application](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX/hub).
 
-Frontend Mentor challenges help to improve coding skills by building realistic projects. 
+Frontend Mentor challenges help to improve coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -30,11 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/preview.png)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z1Zjl3Y203Nzlhd3ltMmFpbWxieTBiczk3MTN2bHVyN2trcGEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QCgb2yrJkQ46uKuoSx/giphy.gif" alt="Screenshot"/>
 
 ### Links
 
-- Solution URL: [Github](https://github.com/jaedevgithub/tipCalculator)
+- Solution URL: [GitHub](https://github.com/jaedevgithub/tipCalculator)
 
 - Live Site URL: [Github Pages](https://jaedevgithub.github.io/tipCalculator/)
 
@@ -42,24 +43,24 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- Flexbox and CSS Grid.
-- CSS Grid
-- JavaScript
+- HTML5.
+- CSS.
+- Vanilla JavaScript
 
 ### What I learned
 
-- CSS Layout with Flexbox and grid.
+- CSS Layout with flexbox and grid.
+- Mobile first methodology.
 - Use of JavaScript properties in the DOM.
 - I put into practice the basic principles of JavaScript, such as arithmetic and conditional operators.
-- The utility of the querySelector to add interactivity to the different HTML elements.
+- The utility of the querySelector for adding interactivity to the different HTML elements.
 - Practiced responsive design through media queries.
 
 ### What can be improve
 
-- The design is not mobile first. 
+- The design is not mobile first.
 
 ## Author
 
 - Frontend Mentor - [@jaegit123](https://www.frontendmentor.io/profile/jaegit123)
-- JavaScript tutorial for this project [@CodinGitHub](https://www.youtube.com/watch?v=89TcBf7_s8o&t=5865s)
+- JavaScript tutorial for this project [@machadop1407](https://www.youtube.com/watch?v=89TcBf7_s8o&t=5865s)
